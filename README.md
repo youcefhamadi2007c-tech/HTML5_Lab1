@@ -11,7 +11,4 @@ The project includes sections for the story description, key characters, importa
 - Easy to read and share on GitHub or any web browser.
 - Suitable for fan projects or learning HTML structure.
 
-## How to Use
-1. Clone or download the repository:
-```bash
-git clone https://github.com/your-username/Light-Yagami-Story.git
+
